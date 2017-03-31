@@ -28,7 +28,7 @@ body  {
 .index.image-background {
    background-image: url('../img/dream.jpg');
    background-size: cover;
-   max-width: 80%;
+   max-width: 100%;
    height: 100%;
 
 }
