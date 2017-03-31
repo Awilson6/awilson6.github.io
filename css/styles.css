@@ -25,12 +25,12 @@ body  {
 
 }
   /* we use these classes to add background images to divs*/
-.index.image-background {
-   background-image: url('../img/dream.jpg');
-   background-size: center;
-   width: 90%;
+.index.image {
+   image: url('../img/dream.jpg');
+   width: 50%;
    height: 100%;
-   padding-left: 80px;
+   margin-left: 500px;
+   align-items: center;
 
 }
  .contact.image-background {
