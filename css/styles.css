@@ -26,7 +26,7 @@ body  {
 }
   /* we use these classes to add background images to divs*/
 .index.image-background {
-   background-image: url('../img/positive.jpg');
+   background-image: url('../img/dream.jpg');
    background-size: cover;
    max-width: 80%;
    height: 100%;
